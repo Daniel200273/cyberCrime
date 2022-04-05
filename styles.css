@@ -15,24 +15,24 @@ body{
 }
 .hero h1{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: min(10vw, 6rem);
+    font-size: min(16vw, 6rem);
 }
 .hero h2{
     font-family:'Public Sans', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: min(3vw, 1.5rem);
+    font-size: min(5vw, 1.5rem);
     font-weight:100;
     text-align: end;
 }
 /* BODY*/
 .content h1{
     font-family:'Public Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: min(6vw, 3rem);
+    font-size: min(8vw, 3rem);
     margin-left:min(20% , 10rem);
     width: fit-content;
 }
 .content p{
     font-family:'Public Sans', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: min(3vw, 1.25rem);
+    font-size: min(5vw, 1.25rem);
     font-weight:300;
     color:rgb(195, 195, 195);
     width:min(70%, 900px);
