@@ -4,7 +4,7 @@ body{
     background: rgba(22, 48, 51, 1);
     background-image: url(images/digitBackground.png);
     background-repeat: repeat;
-    width:100%;
+    width:100vw;
 }
 /* HERO */
 .hero{
@@ -53,7 +53,7 @@ body{
 }
 .content{
     height:100vh;
-    margin-top:4rem;
+    padding-top:min(5rem , 15vw)
 }
 .paragraph{
     padding-bottom: 1rem;
