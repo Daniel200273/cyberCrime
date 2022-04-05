@@ -53,7 +53,7 @@ body{
 }
 .content{
     height:100vh;
-    padding-top:min(5rem , 15vw)
+    padding-top:20vh
 }
 .paragraph{
     padding-bottom: 1rem;
