@@ -15,7 +15,7 @@ body{
 }
 .hero h1{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: min(16vw, 6rem);
+    font-size: min(13vw, 6rem);
 }
 .hero h2{
     font-family:'Public Sans', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
