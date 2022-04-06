@@ -3,6 +3,7 @@ body{
     overflow-x: hidden;
     background: rgba(22, 48, 51, 1);
     background-image: url(images/digitBackground.png);
+    background-position: center;
     background-repeat: repeat;
     width:100vw;
 }
@@ -13,7 +14,6 @@ body{
     display:grid;
     align-content: center;
     justify-content: center;
-    position: relative;
 }
 
 .hero h1{
@@ -25,6 +25,10 @@ body{
     font-size: min(5vw, 1.5rem);
     font-weight:100;
     text-align: end;
+}
+.hero img{
+    width:max(15rem,35vw);
+    margin:0 auto
 }
 /* BODY*/
 .content h1{
@@ -52,7 +56,6 @@ body{
     height:100%;
     background: rgba(30, 63, 67, 1);
     z-index:-100;
-    
 }
 .content{
     height:100vh;
